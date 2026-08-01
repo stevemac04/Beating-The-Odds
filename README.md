@@ -10,7 +10,7 @@ Clean lineups to a normalized and homogenous format (both with xG data and for e
 Use projected lineups and xG value to create a predicted scoreline
 Alter scoreline prediction with goalie's GSAx
 
-Use poisson distribution with predicted scoreline to find proabability of different score outcomes in the game
+Use poisson distribution with predicted scoreline to find proaability of different score outcomes in the game
 Visualization of probabilities
 
 bs4 scrape (I copy and paste manually the html to not violate TOS) live odds from draftkings [draftkings]

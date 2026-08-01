@@ -2,7 +2,7 @@
 NHL Betting Algorithm that uses historical data for specific players and daily lineups to find value betting opportunities
 The process:
 
-Get historical data ƒor NHL players [https://www.naturalstattrick.com/]
+Get historical data for NHL players [https://www.naturalstattrick.com/]
 Use xG and TOI to find an efficiency statistic that can quantify goals created / time on ice
 
 bs4 scrape daily lineups for each team [https://rotogrinders.com/lineups/nhl#]
